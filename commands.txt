@@ -1,0 +1,2 @@
+uv run python manage.py runserver
+uv run python manage.py test manufacturing --verbosity=2
