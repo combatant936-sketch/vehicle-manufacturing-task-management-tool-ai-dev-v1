@@ -2,10 +2,10 @@
 
 ## Epic 1 — Project & User Setup
 
-- [ ] **BE-01** Define custom user model with roles: `manager`, `supervisor`, `worker`
-- [ ] **BE-02** Configure role-based permissions and Django groups
-- [ ] **BE-03** Implement login / logout with session auth
-- [ ] **BE-04** Restrict views by role using decorators or mixins
+- [x] **BE-01** Define custom user model with roles: `manager`, `supervisor`, `worker`
+- [x] **BE-02** Configure role-based permissions and Django groups
+- [x] **BE-03** Implement login / logout with session auth
+- [x] **BE-04** Restrict views by role using decorators or mixins
 
 ---
 
